@@ -1,4 +1,9 @@
 Initial-points
 ==============
 
-Initial points used for numerical results
+Initial points used for numerical results on some CUTEst problems.
+
+Used in the paper:
+Linear equalities in blackbox optimization
+written by Charles Audet, Sébastien Le Digabel, and Mathilde Peyrega
+Ecole Polytechnique de Montréal et GERAD
